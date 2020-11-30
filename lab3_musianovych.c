@@ -42,6 +42,7 @@ int main() {
         input_numbers[i]=b;
     }
 
+
     algo(input_numbers,numbers);
 
 
