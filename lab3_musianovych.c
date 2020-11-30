@@ -41,7 +41,7 @@ int main() {
         scanf("%d",&b);
         input_numbers[i]=b;
     }
-    printf("Hi");
+
 
     algo(input_numbers,numbers);
 
